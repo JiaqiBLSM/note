@@ -22,7 +22,7 @@ $$c = \sum\limits_{i = 0}^{5} c_i \cdot 2^{64i}.$$
 
 Then
 $$c \equiv s_0 + s_1 + s_2 + s_3 \pmod p.$$
-where the $s_i$ is the intergers respresented by the following concatentations of the six words:
+where the $s_i$ is the interger respresented by the following concatentations of the six words:
 $$s_0 = (c_2\quad c_1\quad c_0)$$
 $$s_1 = (0\quad c_3\quad c_3)$$
 $$s_2 = (c_4\quad c_4\quad 0)$$
