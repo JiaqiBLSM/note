@@ -167,3 +167,10 @@ $$
 \end{aligned}
 $$
 
+
+# Reference
+
+1. Encyclopedia of cryptography and security[M]. Springer Science & Business Media, 2014.
+2. Solinas J A. Generalized mersenne numbers[M]. Faculty of Mathematics, University of Waterloo, 1999.
+3. 国家密码管理局. SM2 椭圆曲线公钥密码算法第5 部分: 参数定义: GMT 0003.5-2012[S].
+北京:中国标准出版社, 2012:8.

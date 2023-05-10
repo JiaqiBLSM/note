@@ -36,3 +36,8 @@ Function mod(n, p) {
     }
 }
 ```
+
+# Reference
+
+1. Encyclopedia of cryptography and security[M]. Springer Science & Business Media, 2014.
+2. Menezes A J, Van Oorschot P C, Vanstone S A. Handbook of applied cryptography[M]. CRC press, 2018.
